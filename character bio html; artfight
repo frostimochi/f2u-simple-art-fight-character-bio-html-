@@ -1,0 +1,408 @@
+<div style="width:100%;">
+
+	
+
+	<table class="profile-table" style="width:59%;margin:0 auto;border-collapse:collapse;">
+		<tbody>
+			<tr>
+				<!-- LEFT COLUMN -->
+
+				<td style="width:30%;vertical-align:top;padding-right:15px;">
+
+
+					<span style="font-size:24px;font-family:Impact,Charcoal,sans-serif;color:rgb(209,107,107);">
+
+</span><span style="font-size: 24px; font-family: Impact, Charcoal, sans-serif; color: rgb(84, 172, 210);"><u>BASIC INFO</u></span><span style="font-size:24px;font-family:Impact,Charcoal,sans-serif;color:rgb(209,107,107);">
+
+</span>
+
+
+					<p style="font-family:Georgia,serif;font-size:14px;line-height:1.5;">
+
+						<u>name</u>: [character name]
+
+						<br>
+
+						<u>nickname/codename</u>: [nickname]
+
+						<br>
+
+						<u>age</u>: [age]
+
+						<br>
+
+						<u>birthday</u>: [birthday]
+
+						<br>
+
+						<u>gender</u>: [gender/pronouns]
+
+						<br>
+
+						<u>height</u>: [height]
+
+						<br>
+
+						<u>relationship status</u>: [status]
+
+
+
+						<br>
+
+						<u>nationality</u>: [nationality]
+
+
+
+						<br>
+
+						<u>hair color</u>: [hair color]
+
+						<br>
+
+						<u>eye color</u>: [eye color]
+
+						<br>
+
+						<u>skin color</u>: [skin tone]
+
+					</p>
+
+
+
+					<!-- IMAGE -->
+
+					<img class="profile-image" src="IMAGE%20LINK%20HERE" style="width: 260px; border: 2px solid rgb(97,189,109); border-radius: 8px;">
+
+
+
+					<p style="font-family:Georgia,serif;font-size:14px;">
+
+						art by:
+
+						<br>
+
+						<a href="http://ARTIST%20LINK%20HERE">artist name</a>
+
+					</p>
+
+
+
+					<hr>
+
+
+
+					<!-- OPTIONAL LINKS -->
+
+					<p style="font-family:Georgia,serif;font-size:18px;">
+
+						<a href="PLAYLIST%20LINK%20HERE">
+
+							<span style="color:rgb(97,189,109);">
+
+</span><span style="color: rgb(84, 172, 210);"><strong><u>spotify playlist</u></strong></span><span style="color:rgb(97,189,109);">
+
+</span>
+
+						</a>
+
+					</p>
+
+
+
+					<p style="font-family:Georgia,serif;font-size:18px;">
+
+						<a href="VOICE%20CLAIM%20LINK%20HERE">
+
+							<span style="color:rgb(209,107,107);">
+
+</span><span style="color: rgb(84, 172, 210);"><strong><u>voice claim</u></strong></span><span style="color:rgb(209,107,107);">
+
+</span>
+
+						</a>
+
+					</p>
+
+
+
+					<p style="font-family:Georgia,serif;font-size:14px;color:white;">
+
+						(optional note about voice claim, accents, inspiration, etc.)</p>
+
+					<p style="font-family:Georgia,serif;font-size:14px;color:white;">
+						<br>
+					</p>
+
+					<p style="font-family:Georgia,serif;font-size:14px;color:white;">
+						<br>
+					</p>
+
+					<p style="font-family:Georgia,serif;font-size:14px;color:white;">
+						<br>
+					</p>
+
+					<p style="font-family:Georgia,serif;font-size:14px;color:white;">
+						<br>
+					</p>
+
+					<p style="font-family:Georgia,serif;font-size:14px;color:white;">
+						<br>
+					</p>
+
+					<p style="font-family:Georgia,serif;font-size:14px;color:white;">
+						<br>
+					</p>
+
+					<p style="font-family:Georgia,serif;font-size:14px;color:white;">
+						<br>
+					</p>
+
+					<p style="font-family:Georgia,serif;font-size:14px;color:white;">template by<a href="https://artfight.net/~frostimochi" target="_blank" rel="noreferrer noopener" data-pasted="true">:<br></a><a href="https://artfight.net/~frostimochi" target="_blank" rel="noopener noreferrer">frostimochi</a></p>
+
+					<p style="font-family:Georgia,serif;font-size:14px;color:white;">
+
+						DO NOT REMOVE!!!</p>
+
+
+				</td>
+
+
+
+				<!-- RIGHT COLUMN -->
+
+
+				<td style="width:70%;vertical-align:top;">
+
+
+					<div class="profile-content" style="padding:10px;">
+
+						<!-- QUOTE -->
+
+						<p style="font-family:'Courier New',monospace;font-size:18px;color:rgb(209,107,107);">
+
+							<strong>
+<em>
+<span style="color: rgb(26, 188, 156);">&quot;insert character quote here&quot;
+</span></em><span style="color: rgb(26, 188, 156);">
+</span></strong><span style="color: rgb(26, 188, 156);">
+
+</span></p><span style="color: rgb(26, 188, 156);">
+
+
+</span>
+
+						<p style="font-family:'Courier New',monospace;font-size:18px;color:rgb(209,107,107);"><span style="color: rgb(26, 188, 156);">
+
+&quot;translation / meaning of quote here&quot;</span>
+
+						</p>
+
+
+
+						<hr>
+
+
+
+						<!-- BACKSTORY -->
+
+
+						<span style="font-size:24px;font-family:Impact,Charcoal,sans-serif;color:rgb(209,107,107);">
+
+</span><span style="font-size: 24px; font-family: Impact, Charcoal, sans-serif; color: rgb(84, 172, 210);"><u>BACKSTORY</u></span><span style="font-size:24px;font-family:Impact,Charcoal,sans-serif;color:rgb(209,107,107);">
+
+</span>
+
+
+
+						<p style="font-family:Georgia,serif;color:#FFFFFF;font-size:14px;line-height:1.5;">
+
+							[write your character&#39;s backstory here]
+
+							<br>
+							<br> [add more paragraphs as needed]
+
+							<br>
+							<br> [include their childhood, origins, important events, powers, goals, or anything else you want people to know]
+
+						</p>
+
+
+
+						<hr>
+
+
+
+						<!-- RELATIONSHIPS / EXTRA STORY -->
+
+
+						<p style="font-family:Georgia,serif;color:#FFFFFF;font-size:14px;line-height:1.5;">
+
+							[write about important relationships, friendships, rivalries, romance, team dynamics, or character development here]
+
+							<br>
+							<br> [additional story section]
+
+						</p>
+
+
+
+						<hr>
+
+
+
+						<!-- MISCELLANEOUS -->
+
+
+						<p>
+
+							<span style="font-size:24px;font-family:Impact,Charcoal,sans-serif;color:rgb(209,107,107);">
+
+</span><span style="font-size: 24px; font-family: Impact, Charcoal, sans-serif; color: rgb(84, 172, 210);"><u>MISCELLANEOUS</u></span><span style="font-size:24px;font-family:Impact,Charcoal,sans-serif;color:rgb(209,107,107);">
+
+</span>
+
+						</p>
+
+
+
+						<ul style="list-style-type:circle;">
+
+							<li style="font-family:Georgia,serif;font-size:14px;">
+
+								[random fact / headcanon / fun detail]
+
+							</li>
+
+
+							<li style="font-family:Georgia,serif;font-size:14px;">
+
+								[random fact / hobby / personality trait]
+
+							</li>
+
+
+							<li style="font-family:Georgia,serif;font-size:14px;">
+
+								[random important item, memory, or detail]
+
+							</li>
+
+
+							<li style="font-family:Georgia,serif;font-size:14px;">
+
+								[random language, habit, quirk, or ability]
+
+							</li>
+
+
+						</ul>
+
+
+
+						<!-- OPTIONAL RELATIONSHIP SECTION -->
+
+
+						<p>
+
+							<span style="color:rgb(209,107,107);font-family:Georgia,serif;">
+
+</span><span style="color: rgb(84, 172, 210); font-family: Georgia, serif;">character x character / relationship notes</span><span style="color:rgb(209,107,107);font-family:Georgia,serif;">
+
+</span>
+
+						</p>
+
+
+
+						<ul style="margin-left:20px;list-style-type:circle;">
+
+
+							<li style="font-family:Georgia,serif;">
+
+								[relationship headcanon]
+
+							</li>
+
+
+							<li style="font-family:Georgia,serif;">
+
+								[relationship headcanon]
+
+							</li>
+
+
+							<li style="font-family:Georgia,serif;">
+
+								[relationship headcanon]
+
+							</li>
+
+
+							<li style="font-family:Georgia,serif;">
+
+								[relationship headcanon]
+
+							</li>
+
+
+							<li style="font-family:Georgia,serif;">
+
+								[relationship headcanon]
+
+							</li>
+
+
+							<li style="font-family:Georgia,serif;">
+
+								[relationship headcanon]</li>
+
+
+						</ul>
+
+						<p>
+							<br>
+						</p>
+
+						<p>
+
+							<br>
+						</p>
+					</div>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+
+	<p style="font-family:Georgia,serif;font-size:14px;">
+
+
+
+		<a href="https://artfight.net/~frostimochi" target="_blank" rel="noreferrer noopener"><span style="color:rgb(209,107,107);">
+
+</span>
+
+</a></p>
+
+	<p style="font-family:Georgia,serif;font-size:14px;">
+
+
+
+		<a href="https://artfight.net/~frostimochi" target="_blank" rel="noreferrer noopener"><span style="color:rgb(209,107,107);">
+
+</span>
+</a></p>
+
+	<p style="font-family:Georgia,serif;font-size:14px;text-align:center;">
+
+		<br>
+	</p>
+
+
+	<p>
+		<br>
+	</p>
+
+	<p>
+		<br>
+	</p>
+</div>
