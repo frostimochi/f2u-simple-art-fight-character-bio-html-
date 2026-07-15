@@ -1,2 +1,2 @@
 DO NOT REMOVE MY CREDITS.
-i'm not sure if this fully works on toyhouse because i haven't tested it on there, but it should mnost likely function.
+i'm not sure if it works on toyhouse because i haven't tested it, but it should most likely function.
